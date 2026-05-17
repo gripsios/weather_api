@@ -1,0 +1,10 @@
+# Προστασία API key - ΜΗΝ ανεβάσεις αυτό το αρχείο!
+config.php
+
+# XAMPP / Server
+*.log
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
