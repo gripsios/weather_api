@@ -23,7 +23,7 @@ h1 {
 
 .search-bar { 
     display: flex; gap: 8px; margin-bottom: 1.5rem;
- }
+}
 
 .search-bar input {
     flex: 1;
